@@ -1,0 +1,40 @@
+h1 {
+    font-family: fantasy;
+    color: rgb(128, 0, 128);
+    font-size: 30px;
+}
+
+ul,ol{
+    list-style-type: none;
+}
+
+ol{
+    font-weight: 700;
+}
+
+li{
+text-align: center;
+border: 1px solid rgb(128, 0, 128);
+border-radius: 10px;
+color: rgb(102, 51, 153);
+background-color: rgb(216, 191, 216);
+padding-left: 30px;
+}
+
+img{
+    height: 200px;
+}
+
+body{
+    font-family: sans-serif;
+}
+h3{
+    text-decoration-line: underline;
+}
+p{
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+html{
+    background-color: rgb(212, 253, 239);
+}
