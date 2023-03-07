@@ -1,0 +1,39 @@
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  color: rgb(128, 0, 128);
+  font-family: fantasy;
+  font-size: 30px;
+}
+
+h3 {
+  text-decoration-line: underline;
+}
+
+img {
+  height: 200px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ol {
+  font-weight: 700;
+}
+
+li {
+  background-color: rgb(216, 191, 216);
+  border: 1px solid rgb(128, 0, 128);
+  border-radius: 10px;
+  color: rgb(102, 51, 153);
+  padding-left: 30px;
+  text-align: center;
+}
+
+p {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
