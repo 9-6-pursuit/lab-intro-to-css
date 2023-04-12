@@ -1,0 +1,80 @@
+/* Center all items */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+  }
+
+/* Change all font in the body to sans-serif. */
+body {
+    font-family: sans-serif;
+    background-color: lightgray;
+}
+/* 
+- Change the font of the name header to be 'Fantasy' and purple. 
+- h1 tags should have a 30px font size.
+*/
+h1 {
+    
+    color: purple;
+    font-family: fantasy;
+    font-size: 30px;
+    
+}
+/* Remove the bullet points from your unordered list of links. */
+ul {
+    list-style-type: none;
+}
+/* Change the font-weight in your ordered list to bold. */
+ol {
+    font-weight: bold;
+}
+/* 
+- Center all li elements on the page.
+- Give your li elements a 1px red border with curved corners.
+- Change the font color of your li elements to blue and the background color to a light pink.
+- Lists should have 30px of padding on the left.
+ */
+li {
+    background-color: lightpink;
+    border: 1px solid rgb(128, 0, 128);
+    border-radius: 10px;
+    color: rebeccapurple;
+    padding-left: 30px;
+    text-align: center;
+}
+/* All images should be 200 pixels tall. */
+img {
+    display: block;
+    height: 200px;
+}
+/* Underline all h3 elements. */
+h3 {
+    text-decoration: underline;
+    font-family: 'Arimo', sans-serif;
+    font-family: 'Bangers', cursive;
+    text-decoration-color: red;
+    color: #FFF01F;
+    text-align: center;
+}
+
+h2 {
+
+    text-decoration: underline;
+    font-family: 'Arimo', sans-serif;
+    font-family: 'Bangers', cursive;
+    text-decoration-color: red;
+    color: #FFF01F;
+    text-align: center;
+}
+/* All p tags should have 20 pixels of padding on the top and the bottom - not on the sides. */
+p {
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+img {
+    display: block;
+    height: 200px;
+    margin: 0 auto;
+}
