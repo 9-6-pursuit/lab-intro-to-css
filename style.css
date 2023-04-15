@@ -1,0 +1,46 @@
+body {
+  font-family: sans-serif;
+}
+
+p {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+h1 {
+  font-family: fantasy;
+  color: purple;
+  font-size: 30px;
+}
+
+h3 {
+  text-decoration: underline;
+}
+
+ol {
+  font-weight: bold;
+}
+
+/* ol,
+ul {
+  padding-left: 30px;
+} */
+
+li {
+  text-align: center;
+  color: rebeccapurple;
+  background-color: thistle;
+  border: purple 1px solid;
+  border-radius: 10px;
+  padding-left: 30px;
+}
+
+img {
+  min-height: 200px;
+  max-height: 200px;
+  height: 200px;
+}
+
+ul {
+  list-style-type: none;
+}
